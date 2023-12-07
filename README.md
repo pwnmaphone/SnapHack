@@ -1,2 +1,4 @@
-# SnapHack
-SnapHack is an app that allows you disable screenshots, story viewing and more. This works by injecting the code into Snapchats memory. A kernel exploit is required to escape the sandbox and allow the injection to happen. Using the code_load app this is achiveved. If you restart your iPhone you will need to rerun both the code_load app and the SnapHack app to regain the extra features. This build only contains the SnapHack and not the code_load app. Also once you press Inject in SnapHack you can close both code_load and SnapHack. Works with with iOS 15-15.0.1. 
+# HD52
+HD52 or History Deletor 52 is a vaildation vulnerbility that allows policies set by admins to be overriden by bypassing vaildation
+The eexploit works by clicking X when you look something up in your history in the search bar. This for some reason bypasses the policies set by the admin. 
+Unknown if the vulnerbility still exists.
